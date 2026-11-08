@@ -2,7 +2,7 @@
 
 ### Front-End Developer | React.js
 
-I enjoy building modern, responsive, and user-friendly web applications.
+I build modern, responsive, and user-friendly web applications.
 
 ---
 
