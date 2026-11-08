@@ -55,13 +55,6 @@ My personal portfolio website showcasing my projects and development journey.
 
 [View Repository](https://github.com/Abram-Anwar/My-Portfolio)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abram-Anwar&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abram-Anwar&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
